@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="container">
-      <img src="/your-photo.jpeg" alt="Zach Steinberg" className="profile-pic" />
+      <img src="/zach-photo.jpeg" alt="Zach Steinberg" className="profile-pic" />
       <h1>Zach Steinberg</h1>
 
       <section>
@@ -12,7 +12,7 @@ function App() {
         <p>
           I'm an aspiring data analyst and information systems student with a passion for using
           technology to solve real-world problems. I enjoy working on projects that involve data,
-          design thinking, and collaboration.
+          design thinking, and collaboration
         </p>
       </section>
 
